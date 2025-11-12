@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohammed Mahfoud 👋
 
-<!--
-**mmahfoud/mmahfoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Development Manager @ [nasca-sy.com](https://www.nasca-sy.com)**  
+Passionate about building scalable, high-performance applications and solving complex problems.
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech Stack
+- **Languages:** .NET, Rust, Python, JavaScript, SQL
+- **Experience:** Backend, frontend, cloud, distributed systems, API design, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I Do
+- Architect and implement robust solutions for fintech applications
+- Explore new technologies and optimize for efficiency and reliability
+- Tackle tough challenges in both code and logic
+
+## 🧩 Interests
+- Solving "greater than killer" sudoku puzzles at [dailykillersudoku.com](https://www.dailykillersudoku.com)
+
+---
+
+> “Code is like a puzzle—sometimes the greatest satisfaction is finding the piece that fits perfectly.”
